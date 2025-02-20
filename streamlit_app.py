@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 st.header('st.write')
 # Example 1
-st.write('Hello, *World!* :sunglasses:')
+st.write('Hello, *World again!* :sunglasses:')
 # Example 2
 st.write(1234)
 # Example 3
